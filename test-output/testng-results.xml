@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="101811" started-at="2021-01-22T22:14:58 IST" finished-at="2021-01-22T22:16:39 IST">
+    <groups>
+    </groups>
+    <test name="platform_desktop" duration-ms="101811" started-at="2021-01-22T22:14:58 IST" finished-at="2021-01-22T22:16:39 IST">
+      <class name="workspace.AmazonDemo">
+        <test-method status="PASS" signature="SuiteSetUp1()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="SuiteSetUp1" is-config="true" duration-ms="163" started-at="2021-01-22T22:14:57 IST" finished-at="2021-01-22T22:14:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteSetUp1 -->
+        <test-method status="PASS" signature="extent()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="extent" is-config="true" duration-ms="5" started-at="2021-01-22T22:14:58 IST" finished-at="2021-01-22T22:14:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method status="PASS" signature="suiteSetup()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteSetup" is-config="true" duration-ms="11903" started-at="2021-01-22T22:14:58 IST" finished-at="2021-01-22T22:15:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="validateLogin()[pri:1, instance:workspace.AmazonDemo@5cee5251]" name="validateLogin" duration-ms="14327" started-at="2021-01-22T22:15:10 IST" finished-at="2021-01-22T22:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteTearDown" is-config="true" duration-ms="1189" started-at="2021-01-22T22:15:24 IST" finished-at="2021-01-22T22:15:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+        <test-method status="PASS" signature="suiteSetup()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteSetup" is-config="true" duration-ms="11727" started-at="2021-01-22T22:15:25 IST" finished-at="2021-01-22T22:15:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="validateLogout()[pri:2, instance:workspace.AmazonDemo@5cee5251]" name="validateLogout" duration-ms="14742" started-at="2021-01-22T22:15:37 IST" finished-at="2021-01-22T22:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogout -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteTearDown" is-config="true" duration-ms="900" started-at="2021-01-22T22:15:52 IST" finished-at="2021-01-22T22:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+        <test-method status="PASS" signature="suiteSetup()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteSetup" is-config="true" duration-ms="11404" started-at="2021-01-22T22:15:52 IST" finished-at="2021-01-22T22:16:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="validateSearch()[pri:3, instance:workspace.AmazonDemo@5cee5251]" name="validateSearch" duration-ms="6556" started-at="2021-01-22T22:16:04 IST" finished-at="2021-01-22T22:16:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearch -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteTearDown" is-config="true" duration-ms="952" started-at="2021-01-22T22:16:10 IST" finished-at="2021-01-22T22:16:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+        <test-method status="PASS" signature="suiteSetup()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteSetup" is-config="true" duration-ms="11412" started-at="2021-01-22T22:16:11 IST" finished-at="2021-01-22T22:16:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="validateAddToCart()[pri:4, instance:workspace.AmazonDemo@5cee5251]" name="validateAddToCart" duration-ms="15724" started-at="2021-01-22T22:16:23 IST" finished-at="2021-01-22T22:16:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCart -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:workspace.AmazonDemo@5cee5251]" name="suiteTearDown" is-config="true" duration-ms="929" started-at="2021-01-22T22:16:38 IST" finished-at="2021-01-22T22:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- workspace.AmazonDemo -->
+    </test> <!-- platform_desktop -->
+  </suite> <!-- TestAll -->
+</testng-results>
